@@ -2,6 +2,10 @@
 
 Notable changes image releases. The dnsmasq project [upstream](http://www.thekelleys.org.uk/dnsmasq/doc.html) has its own [changelog](http://www.thekelleys.org.uk/dnsmasq/CHANGELOG).
 
+## SL
+
+* Add `snponly.efi` to list of files grabbed from iPXE.org
+
 ## v0.5.0
 
 * Add multiarch manifest list images for `amd64` and `arm64`

@@ -11,3 +11,4 @@ fi
 curl -s -o $DEST/undionly.kpxe http://boot.ipxe.org/undionly.kpxe
 cp $DEST/undionly.kpxe $DEST/undionly.kpxe.0
 curl -s -o $DEST/ipxe.efi http://boot.ipxe.org/ipxe.efi
+curl -s -o $DEST/snponly.efi http://boot.ipxe.org/snponly.efi
